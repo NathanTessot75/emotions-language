@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.aux
+*.log
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+.DS_Store
+report/scripts/stats.json
